@@ -1,7 +1,7 @@
 # GoF-Factory
 Studying the theory and implementation of Design Patterns
 
-## Sobre o projeto
+## Sobre o pattern
 
 O Factory é um padrão de criação que fornece uma maneira de criar objetos sem especificar
 a classe exata do objeto que será criado. Em vez disso, uma interface comum é usada para
